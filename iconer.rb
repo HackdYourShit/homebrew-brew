@@ -2,9 +2,9 @@
 class Iconer < Formula
   desc "App icon generator for Apple platforms."
   homepage "https://github.com/tib/iconer"
-  url "https://github.com/tib/iconer/archive/0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "9f0fa3c026d31b68ce102261e07e3927c37d9f88612d9ba203b9edb60e26b00e"
+  url "https://github.com/tib/iconer/archive/0.2.0.tar.gz"
+  version "0.2.0"
+  sha256 "a3695a0fae40b0c7bc73ccc2bbba177eb794880e6992de0397f6b649d716deae"
 
   def install
 	bin.install "iconer"
