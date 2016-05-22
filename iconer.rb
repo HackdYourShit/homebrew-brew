@@ -7,7 +7,10 @@ class Iconer < Formula
   sha256 "0a89ff7d15298eda045ac3bc28fc2780de3df1b4c14f1f841bfa78d5922c0033"
 
   def install
-	bin.install "iconer"
+    bin.install "iconer"
+
+    prefix.install "Mask.png"
+
   end
 
 end
