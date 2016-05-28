@@ -11,7 +11,7 @@ class Iconer < Formula
 
     prefix.install Dir["resources/*"]
 
-    man1.install "man/iconer".1
+    man1.install "man/iconer"
 
   end
 
