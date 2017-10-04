@@ -1,15 +1,20 @@
-# homebrew-tap
-My Homebrew tap repository.
+# CoreKit Homebrew Tap
 
+Third-party homebrew formulas aka. [taps](https://docs.brew.sh/brew-tap.html) provided by CoreKit.
 
-### List of packages
-iconer
+### Installation
 
+```bash
+brew tap corekit/brew
+#now you can install formulas from this tap
+brew install iconer
+```
 
-### How to update file checksum
-shasum -a 256 some_tarball.tar.gz
+### Available formulas
+
+* [iconer](https://github.com/CoreKit/iconer) - App icon generator for Apple platforms.
 
 
 ### License
 
-WTFPL
+[WTFPL](LICENSE)
