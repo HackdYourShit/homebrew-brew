@@ -9,11 +9,6 @@ class Renderer < Formula
 
   def install
     bin.install "bin/renderer"
-
-    prefix.install "resources"
-
-
     man1.install "man/renderer.1"
-
   end
 end
