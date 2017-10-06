@@ -13,6 +13,7 @@ brew install iconer
 ### Available formulas
 
 * [iconer](https://github.com/CoreKit/iconer) - App icon generator for Apple platforms.
+* [renderer](https://github.com/CoreKit/renderer) - The only true way to toggle Xcode's markdown rendering feature.
 
 
 ### License
